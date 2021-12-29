@@ -202,4 +202,7 @@ header{
         width: 100%;
 
     }
+    header{
+        position: static;
+    }
 }
